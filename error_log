@@ -1,0 +1,19 @@
+[23-Dec-2016 07:27:14 America/Chicago] PHP Fatal error:  Call to a member function segment() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/controllers/User.php on line 198
+[23-Dec-2016 07:27:15 America/Chicago] PHP Fatal error:  Call to a member function segment() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/controllers/User.php on line 198
+[24-Jan-2017 05:44:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/question/question_detail.php on line 92
+[24-Jan-2017 05:44:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/question/question_detail.php on line 92
+[12-Feb-2017 19:01:33 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/controllers/User.php on line 596
+[13-Feb-2017 05:00:13 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sum() in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/models/Share_Model.php on line 68
+[13-Feb-2017 05:00:55 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sum() in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/models/Share_Model.php on line 68
+[13-Feb-2017 05:13:21 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sum() in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/models/Share_Model.php on line 68
+[14-Feb-2017 05:17:53 America/Chicago] PHP Fatal error:  Call to a member function showBucks() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/history.php on line 56
+[14-Feb-2017 05:17:56 America/Chicago] PHP Fatal error:  Call to a member function showBucks() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/history.php on line 56
+[14-Feb-2017 05:18:23 America/Chicago] PHP Fatal error:  Call to a member function showBucks() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/history.php on line 56
+[14-Feb-2017 05:18:26 America/Chicago] PHP Fatal error:  Call to a member function showBucks() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/views/history.php on line 56
+[28-Feb-2017 23:59:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/system/core/Output.php on line 543
+[01-Mar-2017 00:00:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/system/core/Output.php on line 645
+[01-Mar-2017 01:03:55 America/Chicago] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/application/controllers/Home.php on line 39
+[01-Mar-2017 01:04:07 America/Chicago] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/application/controllers/Home.php on line 39
+[01-Mar-2017 01:04:27 America/Chicago] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/application/controllers/Home.php on line 39
+[03-Mar-2017 05:11:53 America/Chicago] PHP Fatal error:  Call to a member function get_count() on null in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/application/views/question/question.php on line 31
+[03-Mar-2017 05:11:59 America/Chicago] PHP Fatal error:  Call to a member function get_count() on null in /home2/carolhhp/public_html/democarol.com/sportsswapsdemo/application/views/question/question.php on line 31
